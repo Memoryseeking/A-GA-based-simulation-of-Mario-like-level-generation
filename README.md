@@ -96,6 +96,3 @@ You can customise level generation by modifying the following sections:
 - The program uses Pygame for visualisation and requires a graphical interface.
 - Audio warnings may appear in some environments, but they do not affect the core functionality.
 - The playability of the generated levels depends on the design of the fitness function and the tuning of its parameters.
-
-
-
